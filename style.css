@@ -1,0 +1,43 @@
+h1{
+    color:green;
+}
+
+mark.geltona{
+    color: orange;
+    background-color: white;
+}
+
+.trecias table{
+    border: 1px solid black;
+}
+.trecias td, tr, th{
+    border-style: inset;
+    border-color: black;
+}
+
+.melyna{
+    color:blue;
+}
+.rozine{
+    color:rgb(230, 44, 217)
+}
+
+.redbullet{
+    list-style:none;
+}
+
+.redbullet li::before{
+    content:"\25E6";
+    color:red;
+    display:inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+
+form{
+    display:inline-flex;
+    color: rgb(249, 174, 36);
+    flex-direction: column;
+    position:relative;
+}

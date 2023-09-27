@@ -1,0 +1,73 @@
+.dog1{
+    object-fit: fill;
+    margin: 10px;
+    background-color: white;
+}
+.dog2{
+    object-fit: cover;
+    margin: 10px;
+    background-color: white;
+}
+.dog3{
+    object-fit: contain;
+    margin: 10px;
+    background-color: white;
+}
+.dog4{
+    object-fit: none;
+    margin: 10px;
+    background-color: white;
+}
+.dog5{
+    object-fit: scale-down;
+    margin: 10px;
+    background-color: white;
+}
+.deze{
+    width: auto;
+    height: auto;
+    background-color: rgb(227, 230, 109);
+}
+
+img{
+    width: 350px;
+    height: 250px;
+}
+
+figure{
+    display:inline-block;
+    color: black;
+    font-style: italic;
+    font-size:xx-large;
+    text-align: center;
+}
+
+
+.doges{
+    background-color: rgb(222, 222, 67);
+}
+
+.image_container{
+    font-size: 18px;
+    display: inline-block;
+}
+
+.image {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px;
+    position: relative;
+    text-align: center;
+
+}
+
+.image img{
+    width: 240px;
+    height: 130px;
+}
+
+ .uzrasas {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
